@@ -8,7 +8,7 @@ Time spent: 7 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [X] User sees app icon in home screen and styled launch screen. (1pt)
 - [X] User can sign up to create a new account. (1pt)
 - [X] User can log in. (1pt)
 - [X] User can take a photo, add a caption, and post it to the server. (3pt)
@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/2phHQ5XDJP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
