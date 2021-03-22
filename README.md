@@ -24,6 +24,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://recordit.co/JNsbhOZUIR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+*WALKTHROUGH GIVES ERROR SAYING CONTENT LENGTH EXCEEDED*
+Go to https://recordit.co/JNsbhOZUIR for full GIF!
+
 
 
 # Parstagram - Part I
