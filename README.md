@@ -8,10 +8,10 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User can view comments on a post. (3pts)
-- [ ] User can add a new comment. (5pts)
+- [X] User stays logged in across restarts. (1pt)
+- [X] User can log out. (1pt)
+- [X] User can view comments on a post. (3pts)
+- [X] User can add a new comment. (5pts)
 
 The following **bonus** features are implemented:
 
@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/JNsbhOZUIR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
